@@ -18,16 +18,22 @@ Download exe as follow: https://github.com/NicoLiao/Pixiv-Downloader/releases/ta
 
 ## Download source code
 In order to use Pixiv Downloader, make sure that you have python 3.9.6 and python packages as below:
+
 requests 2.27.1
+
 pyinstaller 4.10
+
 regex 2022.1.18
+
 ```
 $ git clone https://github.com/NicoLiao/Pixiv-Downloader
 ```
 ## Usage
 ### Visual Studio Code
 Download VSCode https://code.visualstudio.com/
+
 Download python https://www.python.org/
+
 After installing VScode and Python, download the extension in VSCode as follow:
 * python
 * python for vscode
