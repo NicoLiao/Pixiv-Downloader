@@ -20,9 +20,7 @@ Download exe as follow: https://github.com/NicoLiao/Pixiv-Downloader/releases/ta
 In order to use Pixiv Downloader, make sure that you have python 3.9.6 and python packages as below:
 
 requests 2.27.1
-
 pyinstaller 4.10
-
 regex 2022.1.18
 
 ```
